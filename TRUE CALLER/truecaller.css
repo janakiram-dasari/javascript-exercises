@@ -1,0 +1,157 @@
+body{
+	margin:0px;
+	padding:0px ;
+}
+h2{
+	font-size:50px;
+	font-weight:bold;
+	color:#263238;
+}
+.header{
+	background-color:#0086FE;
+	height:auto;
+	border:1px solid #0086FE;
+	padding:0px 200px 150px 200px;
+}
+.truecaller a{
+	float:left;
+	color:white;
+	text-decoration: none;
+	font-size:30px;
+	font-weight:800;
+	padding-top: 25px;
+}
+.truecaller-items{
+	float:right;
+}
+.truecaller-items ul li{
+	list-style-type:none;
+	display:inline;
+	padding:0px 10px;
+}
+.truecaller-items ul li a{
+	text-decoration:none;
+	color:#F9FCFF;
+}
+.truecaller-items ul li a:hover{
+	color:white;
+}
+.primary-button{
+	background-color:#FFCA28;
+	border-radius:25px;
+	padding:15px 15px;
+	border:1px solid #FFCA28;
+	/*font-weight:700;*/
+	font-weight:bold;
+}
+.secondary-button{
+	background-color:#02A272;
+	border-radius:25px;
+	padding:15px 15px;
+	border:1px solid #02A272;
+	/*font-weight:700;*/
+	font-weight:bold;
+}
+.third-button{
+	background-color:#11171A;
+	border-radius:25px;
+	padding:15px 15px;
+	border:1px solid #11171A;
+	/*font-weight:700;*/
+	font-weight:bold;
+}
+.lookup{
+	text-align: center;
+	color:white;
+	padding-top:150px;
+	font-size:25px;
+}
+.main{
+	background-color:white;
+	height:auto;
+	border:1px solid white;
+	padding:0px 200px 150px 200px;
+}
+.main-content{
+	padding-top:120px;
+	width:50%;
+}
+.main-content ul{
+	/*margin-left:-30px;*/
+	padding:0px;
+}
+.main-content ul li{
+	list-style-type:none;
+	display:inline;
+	padding:0px 10px 0px 1px;
+	margin-right:10px;
+}
+.main-content ul li a{
+	text-decoration:none;
+	color:white;
+}
+.main-content ul li a i{
+	color:white;
+	font-size: 20px;
+}
+.footer{
+	background-color:#06273B;
+	height:300px;
+	border:1px solid #06273B;
+	padding:0px 200px;
+}
+.product{
+	float:left;
+	width:20%;
+	color:white;
+}
+.product ul {
+	/*margin-left:-40px;*/
+	padding:0px;
+}
+.product ul li{
+	list-style-type:none;
+
+}
+.product ul li a{
+	text-decoration:none;
+	color:white;
+	/*margin-right:0px;*/
+	/*margin-left:0px;*/
+	padding:0px;
+}
+.fonts1  li{
+	display:inline;
+	padding:0px 20px 10px 20px;
+}
+.fonts2  li{
+	display:inline;
+	padding:10px 15px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+

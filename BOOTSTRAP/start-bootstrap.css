@@ -1,0 +1,60 @@
+.body1{
+	
+	background-position: center;
+	color:purple;
+	/*padding-top:0px;
+	margin:0px;*/
+}
+.jumbtron-custom{
+	background:url(https://static.pexels.com/photos/60006/spring-tree-flowers-meadow-60006.jpeg);
+	background-size: cover;
+	color:#fff;
+	padding:50px 0;
+}
+.card-image{
+	background:url(https://upload.wikimedia.org/wikipedia/en/1/17/Batman-BenAffleck.jpg);
+	z-index: 3;
+	background-position: center;
+	
+}
+h1{
+	font-size:8em;
+}h3{
+	font-weight:800;
+}
+hr{
+	width:200px;
+}
+.content,.footer-content{
+	text-align: center;
+	padding-top:7%;
+	color:white;
+}
+.inner-container{
+	padding:50px 475px;
+}
+.inner-content{
+	background:url(http://sim06.in.com/4fc598f2c9f2c0cdc5e0decc188d8d10_ft_xl.jpg);
+	background-position: center;
+	background-size: cover;
+	padding:50px;
+}
+.glyphicon{
+	padding-top:15px;
+	font-size:20px;
+	color:#8B658B;
+}
+.second-content{
+	text-align: center;
+	padding:35px 0px;
+}
+.button{
+	text-align:center;
+	padding-bottom: 25px;
+}
+.body2{
+	background:url(https://static.pexels.com/photos/459319/pexels-photo-459319.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+

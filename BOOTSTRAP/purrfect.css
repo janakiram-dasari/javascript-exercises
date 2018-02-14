@@ -1,0 +1,26 @@
+body{
+	background:url(https://www.planwallpaper.com/static/images/4-Nature-Wallpapers-2014-1_cDEviqY.jpg);
+	background-size:cover;
+	/*background-position: center;*/
+	color:white;
+}
+hr{
+	width:400px;
+	border-top:2px solid orange;
+	border-bottom:2px solid rgba(0,0,0,9);
+}
+h1{
+	font-weight:800;*/
+	font-size: 5em;
+}
+
+
+.content{
+	text-align: center;
+	padding-top:15%;
+	/*color:white;
+	/*font-weight:800;*/
+	/*font-size:5em;*/
+	text-shadow:0px 4px 8px red ;
+				0px 7px 10px blue;
+}				

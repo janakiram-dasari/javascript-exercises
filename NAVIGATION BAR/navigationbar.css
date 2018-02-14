@@ -1,0 +1,59 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.navbar{
+	height:50px;
+	background-color:#222222;
+	border-radius:7px;
+}
+.logo a{
+	color:white;
+	padding-top:15px;
+	float:left;
+	text-decoration:none;
+}
+.nav-items ul li{
+	float:left;
+	list-style-type:none;
+	padding-top:15px;
+	padding-left:15px;
+}
+.nav-items ul li a{
+	color:white;
+	text-decoration:none;
+	padding:5px 20px;
+}
+.nav-items ul li a:hover{
+	background-color:#080808;
+	padding:15px 25px;
+}
+.nav-things ul li{
+	float:right;
+	list-style-type:none;
+	padding-top:15px;
+	padding-left:15px;
+}
+.nav-things ul li a{
+	color:white;
+	text-decoration:none;
+	padding:5px 20px;
+}
+.nav-things ul li a:hover{
+	color:red;
+	padding:15px 25px;
+}
+.nav-things ul li a i{
+	padding:0px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
